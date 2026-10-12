@@ -5,6 +5,7 @@ A web-based research workspace: a browser extension plus a web app for saving an
 ## Source of truth
 - **What to build:** `docs/FEATURES.md` (the index) and `docs/features/NN-*.md` (one spec per feature).
 - **How it looks:** Figma file `hzWrF1m4Lnz5pIspJj8gKa` ([Bookmark — Wireframes](https://www.figma.com/design/hzWrF1m4Lnz5pIspJj8gKa/Bookmark-%E2%80%94-Wireframes)).
+- **What's next:** `docs/ROADMAP.md`. Check items off as they're done.
 - `docs/wireframes/*.png` are static snapshots for reading on GitHub. Figma is always the current version.
 
 ## Feature ↔ Figma frame map

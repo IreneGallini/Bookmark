@@ -5,7 +5,7 @@ A web-based workspace for keeping track of your ideas and research. It combines 
 ![Save & annotate](docs/wireframes/01-save-annotate.png)
 
 ## Status
-In the design phase. See **[docs/FEATURES.md](docs/FEATURES.md)** for every feature, its spec, its Figma frame and its status.
+In the design phase. See **[docs/FEATURES.md](docs/FEATURES.md)** for every feature, its spec, its Figma frame and its status, and **[docs/ROADMAP.md](docs/ROADMAP.md)** for what's next.
 
 | Save & annotate | Working queue | Connections (block) | Connections (graph) |
 |---|---|---|---|
@@ -18,6 +18,7 @@ Wireframes: [Figma — Bookmark Wireframes](https://www.figma.com/design/hzWrF1m
 ```
 docs/
   FEATURES.md      feature index (spec ↔ Figma ↔ status ↔ code)
+  ROADMAP.md       next steps checklist
   features/        one spec per feature (+ _TEMPLATE.md)
   wireframes/      PNG snapshots of the Figma frames
 CLAUDE.md          instructions for Claude Code working in this repo
